@@ -24,8 +24,8 @@ Features:
 
 ## 🛠️ Technologies Used
 
-- **HTML5** – Structure of the game
-- **CSS3** – Animations, layout, and styling
+- **HTML** – Structure of the game
+- **CSS** – Animations, layout, and styling
 - **JavaScript** – Game logic and interactions
 - **LocalStorage** – High score saving
 
