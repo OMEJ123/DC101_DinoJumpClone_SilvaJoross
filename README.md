@@ -37,6 +37,7 @@ Features:
 1. Download or clone the repository:
  [  ```bash
    git clone https://github.com/your-username/dino-jump-clone.git](https://github.com/OMEJ123/DC101_DinoJumpClone_SilvaJoross.git)
+
 2.Open the project folder 
 
 3.Double-click index.html 
