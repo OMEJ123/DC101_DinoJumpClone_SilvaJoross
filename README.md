@@ -26,7 +26,7 @@ Features:
 
 - **HTML5** – Structure of the game
 - **CSS3** – Animations, layout, and styling
-- **JavaScript (Vanilla JS)** – Game logic and interactions
+- **JavaScript** – Game logic and interactions
 - **LocalStorage** – High score saving
 
 ---
