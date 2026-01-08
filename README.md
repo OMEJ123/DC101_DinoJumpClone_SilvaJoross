@@ -48,3 +48,6 @@ Mouse Click – Jump
 Spacebar / Arrow Up – Jump
 
 Spacebar / Mouse Click (after Game Over) – Restart
+
+
+![Dino Jump Screenshot](./assets/screenshot.png)
